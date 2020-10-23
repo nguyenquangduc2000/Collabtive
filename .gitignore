@@ -17,7 +17,6 @@ templates/mobile/*
 *.directory
 *.lock
 composer.phar
-composer.json
 vendor/composer/installed.json
 
 VueCompiler.jar
