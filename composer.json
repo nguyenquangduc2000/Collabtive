@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php": "^7.2.0",
+    "phpoffice/phpexcel": "^1.8.1",
+    "ensepar/tcpdf": "^5.0.003",
+    "pclzip/pclzip": "^2.8.2",
+    "smarty/smarty": "v3.1.31",
+    "phpmailer/phpmailer": "v5.2.26",
+    "ezyang/htmlpurifier": "v4.10.0"
+  }
+}
