@@ -20,7 +20,7 @@ session_destroy();
 session_unset();
 setcookie("PHPSESSID", "");
 date_default_timezone_set("Europe/Berlin");
-$db_driver = "sqlite";
+$db_driver = "mysql";
 require("./init.php");
 
 //error_reporting(0);
